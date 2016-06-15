@@ -2,10 +2,10 @@ class GoWatch < Formula
   desc "Portable Go replacement for GNU watch"
   homepage "https://github.com/ostera/watch"
 
-  url "https://github.com/ostera/watch/archive/0.2.2.tar.gz"
+  url "https://github.com/ostera/watch/archive/0.2.3.tar.gz"
 
-  version "0.2.2"
-  sha256 "d2a06ca79b78e1b2d205a6bfb1cdc8747691d82a61d1e35a2f3c9ec8579e7fc2"
+  version "0.2.3"
+  sha256 "256bed90ae8d5a11bf8e5d27b13ec56937668509391109916ee1ceb40c01bc51"
 
   head "https://github.com/ostera/watch.git"
 
